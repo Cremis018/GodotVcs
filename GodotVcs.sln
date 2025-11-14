@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotVcs.Lib", "GodotVcs.Lib\GodotVcs.Lib.csproj", "{DF8CB068-19AC-49A5-98EE-7872C027E736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotVcs.Gen", "GodotVcs.Gen\GodotVcs.Gen\GodotVcs.Gen.csproj", "{1DC715FD-4E48-4EB5-BCE4-6A88562464DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotVcs.Gen.Tests", "GodotVcs.Gen\GodotVcs.Gen.Tests\GodotVcs.Gen.Tests.csproj", "{923A333B-1A2F-43F7-B770-6E0E31DD5D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF8CB068-19AC-49A5-98EE-7872C027E736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8CB068-19AC-49A5-98EE-7872C027E736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8CB068-19AC-49A5-98EE-7872C027E736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8CB068-19AC-49A5-98EE-7872C027E736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC715FD-4E48-4EB5-BCE4-6A88562464DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC715FD-4E48-4EB5-BCE4-6A88562464DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC715FD-4E48-4EB5-BCE4-6A88562464DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC715FD-4E48-4EB5-BCE4-6A88562464DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923A333B-1A2F-43F7-B770-6E0E31DD5D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923A333B-1A2F-43F7-B770-6E0E31DD5D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923A333B-1A2F-43F7-B770-6E0E31DD5D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923A333B-1A2F-43F7-B770-6E0E31DD5D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
