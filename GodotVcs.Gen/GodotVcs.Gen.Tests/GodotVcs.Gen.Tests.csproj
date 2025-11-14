@@ -20,7 +20,10 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\GodotVcs.Gen\GodotVcs.Gen.csproj"/>
+        <ProjectReference Include="..\..\GodotVcs.Lib\GodotVcs.Lib.csproj" />
+        <ProjectReference Include="..\GodotVcs.Gen\GodotVcs.Gen.csproj" 
+                          OutputItemType="Analyzer" 
+                          ReferenceOutputAssembly="false"/>
     </ItemGroup>
 
 
