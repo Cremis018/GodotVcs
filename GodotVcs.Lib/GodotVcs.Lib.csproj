@@ -6,4 +6,12 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="GodotSharp" Version="4.5.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Test\" />
+    </ItemGroup>
+
 </Project>

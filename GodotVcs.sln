@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotVcs.Gen", "GodotVcs.Ge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotVcs.Gen.Tests", "GodotVcs.Gen\GodotVcs.Gen.Tests\GodotVcs.Gen.Tests.csproj", "{923A333B-1A2F-43F7-B770-6E0E31DD5D2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotVcs.Test", "GodotVcs.Test\GodotVcs.Test.csproj", "{08622820-7D8E-4104-8A2D-1A60A42D6E28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{923A333B-1A2F-43F7-B770-6E0E31DD5D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{923A333B-1A2F-43F7-B770-6E0E31DD5D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{923A333B-1A2F-43F7-B770-6E0E31DD5D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08622820-7D8E-4104-8A2D-1A60A42D6E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08622820-7D8E-4104-8A2D-1A60A42D6E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08622820-7D8E-4104-8A2D-1A60A42D6E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08622820-7D8E-4104-8A2D-1A60A42D6E28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
